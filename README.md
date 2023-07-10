@@ -26,4 +26,6 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/minhtien3297/minhtien3297/pull/1) in [minhtien3297/minhtien3297](https://github.com/minhtien3297/minhtien3297)
+2. 🎉 Merged PR [#1](https://github.com/minhtien3297/minhtien3297/pull/1) in [minhtien3297/minhtien3297](https://github.com/minhtien3297/minhtien3297)
 <!--END_SECTION:activity-->
