@@ -5,6 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200" align="right">
 </div>
 
+<br></br>
 <h1 align="center">Hi  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; I'm Minh Tien</h1>
 <h3 align="center">A Curious Front-end Developer <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="50">&nbsp;</h3>
 <br></br>
