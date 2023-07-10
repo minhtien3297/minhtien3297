@@ -22,3 +22,8 @@
 ![](https://raw.githubusercontent.com/minhtien3297/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![Minh Tien's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=minhtien3297&theme=dark)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
