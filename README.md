@@ -23,6 +23,8 @@
 
 ![Minh Tien's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=minhtien3297)
 
+<hr></hr>
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
