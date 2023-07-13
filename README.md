@@ -41,13 +41,4 @@
 
 <hr></hr>
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/minhtien3297/awesome-github-profile-readme/pull/1) in [minhtien3297/awesome-github-profile-readme](https://github.com/minhtien3297/awesome-github-profile-readme)
-2. 💪 Opened PR [#1](https://github.com/minhtien3297/awesome-github-profile-readme/pull/1) in [minhtien3297/awesome-github-profile-readme](https://github.com/minhtien3297/awesome-github-profile-readme)
-<!--END_SECTION:activity-->
-
-<hr></hr>
-
 ![](https://github.com/minhtien3297/minhtien3297/blob/master/profile-3d-contrib/profile-gitblock.svg)
