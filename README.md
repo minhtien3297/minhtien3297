@@ -27,6 +27,16 @@
 </p>
 <br></br>
 
+<h3 align="center">My Learning Progress:</h3>
+
+<div align="center">
+  
+  ![Minh Tien's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=minhtien3297)
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64757abdc4ec366ad5b28484?variant=light&roadmaps=frontend)](https://roadmap.sh)
+  
+</div>
+<br></br>
+
 <a href="https://app.daily.dev/MinhTien"><img src="https://github.com/minhtien3297/minhtien3297/blob/master/devcard.svg" width="400" alt="Minh Tiến Đào's Dev Card" align="right"/></a>
 
 <div align="center">
@@ -37,22 +47,6 @@
 ![](https://raw.githubusercontent.com/minhtien3297/github-stats/master/generated/languages.svg#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com?user=minhtien3297&theme=transparent&hide_border=true&border_radius=5&card_width=400)](https://git.io/streak-stats)
 
-</div>
-
-<h3 align="center">My Learning Progress:</h3>
-
-<div align="center">
-  <div align="left">
-    
-  ![Minh Tien's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=minhtien3297)
-   
-  </div>
-  
-  <div align="right">
-    
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64757abdc4ec366ad5b28484?variant=light&roadmaps=frontend)](https://roadmap.sh)
-  
-  </div>
 </div>
 
 <hr></hr>
