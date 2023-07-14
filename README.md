@@ -31,8 +31,7 @@
 <div align="center">
   
   ![Minh Tien's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=minhtien3297)
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64757abdc4ec366ad5b28484?variant=light&roadmaps=frontend)](https://roadmap.sh)  
-  
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64757abdc4ec366ad5b28484?variant=light&roadmaps=frontend" alt="roadmap.sh"/></a>  
 </div>
 <br></br>
 
