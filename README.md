@@ -37,15 +37,16 @@
 </div>
 <br></br>
 
-<a href="https://app.daily.dev/MinhTien"><img src="https://github.com/minhtien3297/minhtien3297/blob/master/devcard.svg" width="400" alt="Minh Tiến Đào's Dev Card" align="right"/></a>
-
 <div align="center">
+
+<a href="https://app.daily.dev/MinhTien"><img src="https://github.com/minhtien3297/minhtien3297/blob/master/devcard.svg" width="400" alt="Minh Tiến Đào's Dev Card" align="right"/></a>
 
 ![](https://raw.githubusercontent.com/minhtien3297/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/minhtien3297/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/minhtien3297/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/minhtien3297/github-stats/master/generated/languages.svg#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com?user=minhtien3297&theme=transparent&hide_border=true&border_radius=5&card_width=400)](https://git.io/streak-stats)
+
 
 </div>
 
