@@ -22,7 +22,7 @@
 <h3 align="center">My tech stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,pug,css,sass,js,ts,react,nextjs,redux,vue,nuxtjs,vite,bootstrap,tailwind,figma,ai,ps,git,github,md,lua,neovim,vim,vscode,visualstudio,postman,regex" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,nuxtjs,vite,tailwind,figma,neovim,vscode,postman" />
   </a>
 </p>
 <br></br>
