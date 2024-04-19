@@ -39,6 +39,3 @@
 <a href="https://app.daily.dev/MinhTien"><img src="https://github.com/minhtien3297/minhtien3297/blob/master/devcard.svg" width="400" alt="Minh Tiến Đào's Dev Card" align="center"/></a>
 </div>
 <br></br>
-
-
-![](https://github.com/minhtien3297/minhtien3297/blob/master/profile-3d-contrib/profile-gitblock.svg)
