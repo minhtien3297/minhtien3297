@@ -30,8 +30,7 @@
 <h3 align="center">My Learning Progress:</h3>
 <div align="center">
   
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64757abdc4ec366ad5b28484?variant=light&roadmaps=frontend" alt="roadmap.sh"/></a>
-</div>
+[![roadmap.sh](https://roadmap.sh/card/wide/64757abdc4ec366ad5b28484?variant=dark&roadmaps=javascript%2Cfull-stack%2Creact%2Cfrontend)](https://roadmap.sh)</div>
 <br></br>
 
 <div align="center">
